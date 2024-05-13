@@ -12,3 +12,5 @@
 8. Incluir asserções em todos os testes;
 9. Testar com os principais verbos (GET, POST, DELETE, PUT);
 10. Salvar a collection em um arquivo .JSON e subir no Github
+
+#### OBS.: Se necessário autorização de admin, passar uma nova variável de ambiente pegando o parâmetro authorization
